@@ -2,7 +2,7 @@
   "name": "node-js-tut",
   "version": "1.0.0",
   "description": "WOW",
-  "main": "index.js",
+  "main": "website.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
